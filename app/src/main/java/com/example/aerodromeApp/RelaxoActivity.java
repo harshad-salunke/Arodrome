@@ -216,6 +216,7 @@ float x1,x2,y1,y2;
         } catch (FileNotFoundException e) {
             e.printStackTrace();
             Toast.makeText(this, e.getMessage(), Toast.LENGTH_SHORT).show();
+            cardView.setVisibility(View.GONE);
 
         }
 
@@ -241,6 +242,7 @@ float x1,x2,y1,y2;
                         public void onFailure(@NonNull @NotNull Exception e) {
                             Toast.makeText(RelaxoActivity.this, e.getMessage(), Toast.LENGTH_SHORT).show();
                             Log.d("harshad","during uri"+e.getLocalizedMessage());
+                            cardView.setVisibility(View.GONE);
                         }
                     });
                 }
@@ -252,6 +254,7 @@ float x1,x2,y1,y2;
                 Toast.makeText(RelaxoActivity.this, e.getMessage(), Toast.LENGTH_SHORT).show();
                 e.printStackTrace();
                 Log.d("harshad","during video"+e.getLocalizedMessage());
+                cardView.setVisibility(View.GONE);
             }
         });
     }
