@@ -1,0 +1,127 @@
+<resources>
+    <string name="app_name">Aerodrome</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="citys">
+        <item>Mumbai</item>
+        <item>Bengaluru</item>
+        <item>Chennai</item>
+        <item>Kolkata</item>
+        <item>Hyderabad</item>
+        <item>Jaipur</item>
+        <item>Agra</item>
+        <item>Pune</item>
+        <item>Ahmedabad</item>
+        <item>Varanasi</item>
+        <item>New Delhi</item>
+        <item>Lucknow</item>
+        <item>Surat</item>
+        <item>Chandigarh</item>
+        <item>Amritsar</item>
+        <item>Udaipur</item>
+        <item>Kochi</item>
+        <item>Jodhpur</item>
+        <item>Visakhapatnam</item>
+        <item>Madurai</item>
+        <item>Kanpur</item>
+        <item>Coimbatore</item>
+        <item>Indore</item>
+        <item>Bhopal</item>
+        <item>Vadodara</item>
+        <item>Noida</item>
+        <item>Gurugram</item>
+        <item>Prayagraj</item>
+        <item>Nagpur</item>
+        <item>Shimla</item>
+        <item>Ghaziabad</item>
+        <item>Patna</item>
+        <item>Thiruvananthapuram</item>
+        <item>Bhubaneswar</item>
+        <item>Nashik</item>
+        <item>Faridabad</item>
+        <item>Aurangabad</item>
+        <item>Navi Mumbai</item>
+        <item>Mysuru</item>
+        <item>Jamshedpur</item>
+        <item>Gandhinagar</item>
+        <item>Srinagar</item>
+        <item>Mangaluru</item>
+        <item>Ludhiana</item>
+        <item>Guwahati</item>
+        <item>Jabalpur</item>
+        <item>Alappuzha</item>
+        <item>Puducherry</item>
+
+
+    </string-array>
+    <string-array name="city_images">
+        <item></item>
+    </string-array>
+    <string-array name="city_info">
+        <!--                <item>Mumbai (formerly called Bombay) is a densely populated city on India’s west coast. A financial center, it's India's largest city. On the Mumbai Harbour waterfront stands the iconic Gateway of India stone arch, built by the British Raj in 1924. Offshore, nearby Elephanta Island holds ancient cave temples dedicated to the Hindu god Shiva. The city's also famous as the heart of the Bollywood film industry. </item>-->
+        <!--                <item>Bengaluru (also called Bangalore) is the capital of India's southern Karnataka state. The center of India's high-tech industry, the city is also known for its parks and nightlife. By Cubbon Park, Vidhana Soudha is a Neo-Dravidian legislative building. Former royal residences include 19th-century Bangalore Palace, modeled after England’s Windsor Castle, and Tipu Sultan’s Summer Palace, an 18th-century teak structure.</item>-->
+        <!--                <item>Chennai, on the Bay of Bengal in eastern India, is the capital of the state of Tamil Nadu. The city is home to Fort St. George, built in 1644 and now a museum showcasing the city’s roots as a British military garrison and East India Company trading outpost, when it was called Madras. Religious sites include Kapaleeshwarar Temple, adorned with carved and painted gods, and St. Mary’s, a 17th-century Anglican church.</item>-->
+        <!--                <item>Kolkata (formerly Calcutta) is the capital of India's West Bengal state. Founded as an East India Company trading post, it was India's capital under the British Raj from 1773–1911. Today it’s known for its grand colonial architecture, art galleries and cultural festivals. It’s also home to Mother House, headquarters of the Missionaries of Charity, founded by Mother Teresa, whose tomb is on sit</item>-->
+        <!--                <item>Hyderabad is the capital of southern India's Telangana state. A major center for the technology industry, it's home to many upscale restaurants and shops. Its historic sites include Golconda Fort, a former diamond-trading center that was once the Qutb Shahi dynastic capital. The Charminar, a 16th-century mosque whose 4 arches support towering minarets, is an old city landmark near the long-standing Laad Bazaar</item>-->
+        <!--                <item>Jaipur is the capital of India’s Rajasthan state. It evokes the royal family that once ruled the region and that, in 1727, founded what is now called the Old City, or “Pink City” for its trademark building color. At the center of its stately street grid (notable in India) stands the opulent, colonnaded City Palace complex. With gardens, courtyards and museums, part of it is still a royal residence-->
+        <!--                </item>-->
+        <!--                <item>Agra is a city on the banks of the Yamuna river in the Indian state of Uttar Pradesh, about 210 kilometres south of the national capital New Delhi and 335km west of the state capital Lucknow</item>-->
+        <!--                <item>Pune is a sprawling city in the western Indian state of Maharashtra. It was once the base of the Peshwas (prime ministers) of the Maratha Empire, which lasted from 1674 to 1818. It's known for the grand Aga Khan Palace, built in 1892 and now a memorial to Mahatma Gandhi, whose ashes are preserved in the garden. The 8th-century Pataleshwar Cave Temple is dedicated to the Hindu god Shiva</item>-->
+        <!--                <item>Ahmedabad, in western India, is the largest city in the state of Gujarat. The Sabarmati River runs through its center. On the western bank is the Gandhi Ashram at Sabarmati, which displays the spiritual leader’s living quarters and artifacts. Across the river, the Calico Museum of Textiles, once a cloth merchant's mansion, has a significant collection of antique and modern fabrics</item>-->
+        <!--                <item>Varanasi is a city in the northern Indian state of Uttar Pradesh dating to the 11th century B.C. Regarded as the spiritual capital of India, the city draws Hindu pilgrims who bathe in the Ganges River’s sacred waters and perform funeral rites. Along the city's winding streets are some 2,000 temples, including Kashi Vishwanath, the “Golden Temple,” dedicated to the Hindu god Shiva</item>-->
+        <!--                <item>New Delhi is the capital of India and a part of the National Capital Territory of Delhi. New Delhi is the seat of all three branches of the government of India, hosting the Rashtrapati Bhavan, Parliament House, and the Supreme Court of India</item>-->
+        <!--                <item>Lucknow, a large city in northern India, is the capital of the state of Uttar Pradesh. Toward its center is Rumi Darwaza, a Mughal gateway. Nearby, the 18th-century Bara Imambara shrine has a huge arched hall. Upstairs, Bhool Bhulaiya is a maze of narrow tunnels with city views from its upper balconies. Close by, the grand Victorian Husainabad Clock Tower was built as a victory column in 1881</item>-->
+        <!--                <item>Surat is a large city beside the Tapi River in the west Indian state of Gujarat. Once known for silk weaving, Surat remains a commercial center for textiles, and the New Textile Market area is lined with fabric shops. Overlooking the river, Surat Castle was built in the 1500s to defend the city against Portuguese colonists. Nearby, the Dutch, Armenian and English cemeteries contain elaborate colonial-era tombs.</item>-->
+        <!--                <item>Chandigarh, the capital of the northern Indian states of Punjab and Haryana, was designed by the Swiss-French modernist architect, Le Corbusier. His buildings include the Capitol Complex with its High Court, Secretariat and Legislative Assembly, as well as the giant Open Hand Monument. The nearby Rock Garden is a park featuring sculptures made of stones, recycled ceramics and industrial relics.</item>-->
+        <!--                <item>Amritsar is a city in the northwestern Indian state of Punjab, 28 kilometers from the border with Pakistan. At the center of its walled old town, the gilded Golden Temple (Harmandir Sahib) is the holiest gurdwara (religious complex) of the Sikh religion. It’s at the end of a causeway, surrounded by the sacred Amrit Sarovar tank (lake), where pilgrims bathe</item>-->
+        <!--                <item>Udaipur, formerly the capital of the Mewar Kingdom, is a city in the western Indian state of Rajasthan. Founded by Maharana Udai Singh II in 1559, it’s set around a series of artificial lakes and is known for its lavish royal residences. City Palace, overlooking Lake Pichola, is a monumental complex of 11 palaces, courtyards and gardens, famed for its intricate peacock mosaics.</item>-->
+        <!--                <item>Kochi (also known as Cochin) is a city in southwest India's coastal Kerala state. It has been a port since 1341, when a flood carved out its harbor and opened it to Arab, Chinese and European merchants. Sites reflecting those influences include Fort Kochi, a settlement with tiled colonial bungalows and diverse houses of worship. Cantilevered Chinese fishing nets, typical of Kochi, have been in use for centuries.</item>-->
+        <!--                <item>Jodhpur is a city in the Thar Desert of the northwest Indian state of Rajasthan. Its 15th-century Mehrangarh Fort is a former palace that’s now a museum, displaying weapons, paintings and elaborate royal palanquins (sedan chairs). Set on on a rocky outcrop, the fort overlooks the walled city, where many buildings are painted the city’s iconic shade of blue</item>-->
+        <!--                <item>Visakhapatnam is a port city and industrial center in the Indian state of Andhra Pradesh, on the Bay of Bengal. It's known for its many beaches, including Ramakrishna Beach, home to a preserved submarine at the Kursura Submarine Museum. Nearby are the elaborate Kali Temple and the Visakha Museum, an old Dutch bungalow housing local maritime and historical exhibits</item>-->
+        <!--                <item>Madurai is an energetic, ancient city on the Vaigai River in the South Indian state of Tamil Nadu. Its skyline is dominated by the 14 colorful gopurams (gateway towers) of Meenakshi Amman Temple. Covered in bright carvings of Hindu gods, the Dravidian-style temple is a major pilgrimage site. Millions attend the processions and ceremonies of April's Chithirai Festival celebrating Meenakshi and Lord Vishnu.</item>-->
+        <!--                <item>Kanpur, also known as Cawnpore, is a metropolitan city in the state of Uttar Pradesh in India. Founded in 1803, Kanpur became one of the most important commercial and military stations of British India.</item>-->
+        <!--                <item>Coimbatore is a city in the south Indian state of Tamil Nadu. To the northwest is the centuries-old, Dravidian-style Arulmigu Subramaniyaswami Temple, Marudamalai. The colorful and intricately carved Arulmigu Patteeswarar Swamy Temple lies southeast of here. In the center, the Gass Forest Museum has a huge collection of preserved animals and tree trunks. Southeast, birds and butterflies inhabit Singanallur Lak</item>-->
+        <!--                <item>Indore is a city in west-central India. It’s known for the 7-story Rajwada Palace and the Lal Baag Palace, which date back to Indore’s 19th-century Holkar dynasty. The Holkar rulers are honored by a cluster of tombs and cenotaphs at Chhatri Baag. The night market Sarafa Bazar sells street food. East is the Indo-Gothic Gandhi Hall and clock tower. The Jain temple Kanch Mandir has a mirrored mosaic interior</item>-->
+        <!--                <item>Bhopal is a city in the central Indian state of Madhya Pradesh. It's one of India’s greenest cities. There are two main lakes, the Upper Lake and the Lower Lake. On the banks of the Upper Lake is Van Vihar National Park, home to tigers, lions and leopards. The State Museum has fossils, paintings and rare Jain sculptures. Taj-ul-Masjid is one of Asia’s largest mosques, with white domes, minarets and a huge courtyard</item>-->
+        <!--                <item>Vadodara, also known as Baroda, is the third-largest city in the Indian state of Gujarat. It serves as the administrative headquarters of the Vadodara district and is situated on the banks of the Vishwamitri River, 141 kilometres from the state capital of Gandhinagar.</item>-->
+        <!--                <item>Noida is a planned city in India’s northern state of Uttar Pradesh. The riverside Okhla Bird Sanctuary is home to migratory and native birds, plus jackals and butterflies. Plants at the Botanic Garden of Indian Republic include water lilies and cacti. The ISKCON Noida temple has a diorama depicting the life of Lord Krishna. Southwest of Noida, Surajkund lake is a 10th-century reservoir with the ruins of a sun temple.</item>-->
+        <!--                <item>Gurgaon is a city just southwest of New Delhi in northern India. It’s known as a financial and technology hub. The Kingdom of Dreams is a large complex for theatrical shows. Sheetala Mata Mandir is an orange-and-white-striped Hindu temple. The Vintage Camera Museum showcases cameras and prints spanning a century. West of the city, Sultanpur National Park is home to hundreds of bird species.</item>-->
+        <!--                <item>Allahabad, officially known as Prayagraj, also known as Ilahabad, is a metropolis in the Indian state of Uttar Pradesh. It is the administrative headquarters of the Allahabad district—the most populous district in the state and 13th most populous district in India—and the Allahabad division.</item>-->
+        <!--                <item>Nagpur is a large city in the central Indian state of Maharashtra. The 19th-century Nagpur Central Museum displays items found locally, including fossils, sarcophagi and Mughal weaponry. The Raman Science Centre has hands-on exhibits and a planetarium. Sitabuldi Fort, in the Sitabuldi Hills, was the site of an 1817 battle. To the southwest, the immense, domed Deekshabhoomi is a Buddhist monument and pilgrimage site.</item>-->
+        <!--                <item>Shimla is the capital of the northern Indian state of Himachal Pradesh, in the Himalayan foothills. Once the summer capital of British India, it remains the terminus of the narrow-gauge Kalka-Shimla Railway, completed in 1903. It’s also known for the handicraft shops that line The Mall, a pedestrian avenue, as well as the Lakkar Bazaar, a market specializing in wooden toys and crafts.</item>-->
+        <!--                <item>Ghaziabad is a city in the Indian state of Uttar Pradesh and a part of the NCR. It is the administrative headquarters of Ghaziabad district and is the largest city in western Uttar Pradesh, with a population of 1,729,000.</item>-->
+        <!--                <item>Patna is an ancient city that sprawls along the south bank of the Ganges River in Bihar, northeast India. The state capital, it’s home to Bihar Museum, a contemporary landmark exhibiting bronze sculptures and old coins from the region. Nearby, Indo-Saracenic–style Patna Museum displays a casket believed to contain the Buddha’s ashes. Close to the river, the Golghar is a domed colonial granary overlooking the city.</item>-->
+        <!--                <item>Thiruvananthapuram (or Trivandrum) is the capital of the southern Indian state of Kerala. It's distinguished by its British colonial architecture and many art galleries. It’s also home to Kuthira Malika (or Puthen Malika) Palace, adorned with carved horses and displaying collections related to the Travancore royal family, whose regional capital was here from the 18th–20th centuries.</item>-->
+        <!--                <item>Bhubaneswar is an ancient city in India’s eastern state of Odisha, formerly Orissa. Many temples built from sandstone are dotted around Bindu Sagar Lake in the old city, including the 11th-century Hindu Lingaraja Temple. Outside Rajarani Temple are sculpted figures of the guardians of the 8 cardinal and ordinal directions. Jain antiques, weaponry and indigenous pattachitra paintings fill the Odisha State Museum</item>-->
+        <!--                <item>Nashik is an ancient holy city in Maharashtra, a state in western India. It’s known for its links to the “Ramayana” epic poem. On the Godavari River is Panchavati, a temple complex. Nearby, Lord Rama was thought to have bathed at Ram Kund water tank, today attended by Hindu devotees. Shri Kalaram Sansthan Mandir is an ancient shrine to Rama, while Rama and Sita are said to have worshipped at Sita Gufaa caves</item>-->
+        <!--                <item>Faridabad is the most populous city in the Indian state of Haryana and a part of Delhi NCR region It is one of the major satellite cities around Delhi and is located 284 kilometres south of the state capital Chandigarh. The river Yamuna forms the eastern district boundary with Uttar Pradesh</item>-->
+        <!--                <item>Aurangabad is a city in Maharashtra state, in India. It’s known for the 17th-century marble Bibi ka Maqbara shrine, styled on the Taj Mahal. The nearby Shivaji Maharaj Museum, dedicated to the Maratha king Shivaji, displays war weapons and a coin collection. North of the city, the Aurangabad Caves comprise ancient, rock-cut Buddhist shrines. West of the city, battlements surround the medieval Daulatabad Fort</item>-->
+
+        <!--                <item>Navi Mumbai, is a planned city situated on the west coast of the Indian subcontinent, lies in Konkan division of Maharashtra state, on the mainland of Indi</item>-->
+
+        <!--                <item>Mysore (or Mysuru), a city in India's southwestern Karnataka state, was the capital of the Kingdom of Mysore from 1399 to 1947. In its center is opulent Mysore Palace, seat of the former ruling Wodeyar dynasty. The palace blends Hindu, Islamic, Gothic and Rajput styles. Mysore is also home to the centuries-old Devaraja Market, filled with spices, silk and sandalwood</item>-->
+        <!--    <item>Jamshedpur is a large city set between the Subarnarekha and Kharkai rivers in the east Indian state of Jharkhand. It’s known for huge, tree-lined Jubilee Park, where the Tata Steel Zoological Park has resident species including tigers and leopards. To the east, the hilltop Bhuvaneshwari Temple has an elaborate 5-story entrance tower. North of the city, elephants roam through the forests at Dalma Wildlife Sanctuary. </item>-->
+        <!--<item>Gandhinagar is a planned city in the western Indian state of Gujarat. The Akshardham is a massive Hindu temple with ornate carvings and sculpted pillars, plus a water show in its sprawling gardens. Dandi Kutir museum traces the life of leader Mahatma Gandhi, who was born in Gujarat. South, along the Sabarmati River, the Indroda Nature Park has a zoo and botanical gardens, plus an adjacent dinosaur and fossil park</item>-->
+        <!--        <item>Srinagar is the largest city and the summer capital of Jammu and Kashmir, India. It lies in the Kashmir Valley on the banks of the Jhelum River, a tributary of the Indus, and Dal and Anchar lakes. The city is known for its natural environment, gardens, waterfronts and houseboats</item>-->
+        <!--        <item>Mangalore (or Mangaluru) is an Arabian Sea port and a major commercial center in the Indian state of Karnataka. It's home to the Kadri Manjunath Temple, known for its bronze statues, and the 9th-century Mangaladevi Temple. Its Catholic sites include Milagres Church, dating to the 17th century, and St. Aloysious Chapel, which features interior paintings. Tannirbhavi Beach is popular for its sunset views.</item>-->
+        <!--        <item>Ludhiana is a large industrial city in the north Indian state of Punjab. The Punjab Agricultural University is home to the Museum of Rural Life, which displays pottery, musical instruments and traditional Punjabi clothing. Nearby, leafy Nehru Rose Garden features ornamental fountains and more than one thousand different rose varieties. To the north, Maharaja Ranjit Singh War Museum documents Punjabi military history</item>-->
+        <!--        <item>Guwahati is a sprawling city beside the Brahmaputra River in the northeast Indian state of Assam. It’s known for holy sites like the hilltop Kamakhya Temple, featuring shrines to the Hindu deities Shiva and Vishnu. To the east, 18th-century Navagraha Temple is an astronomical center with planetary shrines. Umananda Temple, dedicated to Shiva and covered with engravings, stands on Peacock Island in the river. </item>-->
+        <!--        <item>Jabalpur is a city in the central Indian state of Madhya Pradesh. On a rocky hilltop on the western outskirts of the city is the Madan Mahal Fort, built in 1116. Farther west, the centuries-old Pisanhari Ki Madiya Jain temple offers views of the city. Another Jain temple, Hanumantal Bada Jain Mandir, sits on the shore of a lake in the north. The central Rani Durgavati Museum displays intricately carved sculptures</item>-->
+        <!--        <item>Alappuzha (or Alleppey) is a city on the Laccadive Sea in the southern Indian state of Kerala. It's best known for houseboat cruises along the rustic Kerala backwaters, a network of tranquil canals and lagoons. Alappuzha Beach is the site of the 19th-century Alappuzha Lighthouse. The city's Mullakkal Temple features a traditional design. Punnamada Lake's snake boat races are a well-known annual event.</item>-->
+        <!--        <item>Pondicherry (or Puducherry), a French colonial settlement in India until 1954, is now a Union Territory town bounded by the southeastern Tamil Nadu state. Its French legacy is preserved in its French Quarter, with tree-lined streets, mustard-colored colonial villas and chic boutiques. A seaside promenade runs along the Bay of Bengal and passes several statues, including a 4m-high Gandhi Memorial.</item>-->
+
+
+    </string-array>
+
+
+    <string name="title_activity_fun_facts">FunFacts</string>
+    <string name="text_city_trends">City Trends</string>
+    <string name="text_hangout">Hangout</string>
+    <string name="text_monuments">Monuments</string>
+    <string name="text_shopping">Shopping</string>
+    <string name="text_restaurants">Restaurants</string>
+    <string name="fun_facts">Fun Facts</string>
+    <string name="title_activity_city_history">City History</string>
+
+
+</resources>
