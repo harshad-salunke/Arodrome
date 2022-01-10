@@ -40,6 +40,51 @@
 
 
         <activity
+            android:name=".activities_userActivity.food_and_beverages_page_userActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activities_userActivity.gridView_food_and_beverages_userActivity_activity"
+            android:exported="false" />
+        <activity
+            android:name=".activities_userActivity.shopping_page_userActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activities_userActivity.gridView_shopping_activity_userActivity"
+            android:exported="false" />
+        <activity
+            android:name=".food_and_beverages_activities.food_and_beverages_page"
+            android:exported="false" />
+        <activity
+            android:name=".activities_shopping.gridView_food_and_beverages_activity"
+            android:exported="false" />
+        <activity
+            android:name=".activities_shopping.shopping_page"
+            android:exported="false" />
+        <activity
+            android:name=".activities_shopping.gridView_shopping_activity"
+            android:exported="false" />
+
+<!--        <activity-->
+<!--            android:name=".gridView_shopping.gridView_shopping"-->
+<!--            android:exported="false"-->
+<!--            android:label="@string/title_activity_grid_view_shopping"-->
+<!--            android:theme="@style/Theme.HackathonPart1.NoActionBar" />-->
+<!--        <activity-->
+<!--            android:name=".shopping_gridView_activity.gridView_activity_shopping"-->
+<!--            android:exported="false"-->
+<!--            android:label="@string/title_activity_grid_view_shopping"-->
+<!--            android:theme="@style/Theme.HackathonPart1.NoActionBar" />-->
+        <activity
+            android:name=".user_activity"
+            android:exported="false" />
+        <activity
+            android:name=".authority_activity"
+            android:exported="false" />
+
+
+
+
+        <activity
             android:name="com.example.aerodromeApp.UploadVideoActivity2"
             android:parentActivityName="com.example.aerodromeApp.VideoEditerFolder.BaseCameraActivity" />
         <activity
@@ -55,6 +100,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+
+
+
     </application>
 
 </manifest>

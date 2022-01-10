@@ -67,7 +67,7 @@ float x1,x2,y1,y2;
     StorageReference storageReference;
 
     //replace this with FirebaseUser to get current user Uid and name because my firebase auth not working so i place temp user
-    String firbaseuser="Harshad salunke";
+    String firbaseuser="Aerodrome User";
 
 
     int PICK_VIDEO_REQUEST=000;
@@ -122,10 +122,10 @@ float x1,x2,y1,y2;
                         finish();
                         return true;
                     case R.id.Mshop:
-                        intent=new Intent(RelaxoActivity.this,ShopActivity.class);
-                        startActivity(intent);
+                        Intent userItn = new Intent(RelaxoActivity.this,user_activity.class);
+                        startActivity(userItn);
                         overridePendingTransition(0,0);
-                        finish();
+
                         return true;
                     case R.id.Mmap:
                         intent=new Intent(RelaxoActivity.this,MapActivity.class);

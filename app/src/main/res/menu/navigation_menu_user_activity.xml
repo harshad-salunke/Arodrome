@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/shopping_userActivity"
+        android:icon="@drawable/shopping"
+        android:title="Shopping" />
+
+
+    <item
+        android:id="@+id/food_beverages_userActivity"
+        android:icon="@drawable/beverage"
+        android:title="Food and beverages" />
+</menu>

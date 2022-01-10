@@ -17,6 +17,7 @@ import android.view.animation.AnimationUtils;
 import android.webkit.WebSettings;
 import android.webkit.WebView;
 import android.webkit.WebViewClient;
+import android.widget.Button;
 import android.widget.ProgressBar;
 import android.widget.Toast;
 
@@ -81,10 +82,9 @@ public class MainActivity extends AppCompatActivity {
                     case R.id.Mhome:
                         return true;
                     case R.id.Mshop:
-                        intent=new Intent(MainActivity.this,ShopActivity.class);
-                        startActivity(intent);
+                        Intent userItn = new Intent(MainActivity.this,user_activity.class);
+                        startActivity(userItn);
                         overridePendingTransition(0,0);
-                        finish();
                         return true;
                     case R.id.Mmap:
                         intent=new Intent(MainActivity.this,MapActivity.class);

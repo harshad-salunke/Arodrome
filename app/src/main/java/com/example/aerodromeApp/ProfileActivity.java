@@ -30,10 +30,10 @@ public class ProfileActivity extends AppCompatActivity {
                         finish();
                         return true;
                     case R.id.Mshop:
-                        intent=new Intent(ProfileActivity.this,ShopActivity.class);
-                        startActivity(intent);
+                        Intent userItn = new Intent(ProfileActivity.this,user_activity.class);
+                        startActivity(userItn);
                         overridePendingTransition(0,0);
-                        finish();
+
                         return true;
                     case R.id.Mmap:
                         intent=new Intent(ProfileActivity.this,MapActivity.class);

@@ -234,10 +234,10 @@ public class MapActivity extends AppCompatActivity implements OnMapReadyCallback
                          finish();
                          return true;
                      case R.id.Mshop:
-                         intent = new Intent(MapActivity.this, ShopActivity.class);
-                         startActivity(intent);
+                         Intent userItn = new Intent(MapActivity.this,user_activity.class);
+                         startActivity(userItn);
                          overridePendingTransition(0,0);
-                         finish();
+
                          return true;
                      case R.id.Mmap:
                          return true;

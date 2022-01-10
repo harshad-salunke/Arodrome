@@ -124,4 +124,17 @@
     <string name="title_activity_city_history">City History</string>
 
 
+
+    <string name="title_activity_grid_view_shopping">gridView_activity_shopping</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_shopping_grid_view">shopping_gridView</string>
+    <string name="title_activity_sample">sample</string>
+
 </resources>
